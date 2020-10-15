@@ -1,0 +1,6 @@
+framework module Pods_ByteCoin {
+  umbrella header "Pods-ByteCoin-umbrella.h"
+
+  export *
+  module * { export * }
+}
