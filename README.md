@@ -7,6 +7,8 @@ Check bitcoin price with different currencies!
 $ cd /Users/user/my_project
 $ git clone https://github.com/TarokhDev2020/Ratios-for-iOS.git
 ```
+* Get your api key from [CoinAPI](https://www.coinapi.io/)
+* Go to Settings.swift and replace your api key 
 
 ## Libraries ##
 * [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
