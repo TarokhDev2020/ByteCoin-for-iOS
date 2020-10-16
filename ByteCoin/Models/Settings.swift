@@ -10,7 +10,7 @@ import Foundation
 
 class GlobalSetting {
     static let shared = GlobalSetting()
-    let apikey = "BD624E9B-7874-43C5-84F0-43AA9EA7935A"
+    let apikey = "YOUR API KEY"
 }
 
 struct Routes {
