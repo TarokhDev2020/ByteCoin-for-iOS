@@ -5,7 +5,7 @@ Check bitcoin price with different currencies!
 * Git and clone <br/>
 ```bash
 $ cd /Users/user/my_project
-$ git clone https://github.com/TarokhDev2020/Ratios-for-iOS.git
+$ git clone https://github.com/TarokhDev2020/ByteCoin-for-iOS.git
 ```
 * Get your api key from [CoinAPI](https://www.coinapi.io/)
 * Go to Settings.swift and replace your api key 
